@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/lkernel.dir/main.cpp.o CMakeFiles/lkernel.dir/CommandLineParser.cpp.o CMakeFiles/lkernel.dir/KernelInfoFetcher.cpp.o CMakeFiles/lkernel.dir/SystemCommandExecutor.cpp.o -o lkernel  /usr/lib/libboost_system.so.1.83.0 /usr/lib/libboost_regex.so.1.83.0

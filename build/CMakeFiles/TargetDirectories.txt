@@ -1,0 +1,3 @@
+/home/dynamo/lkernel/build/CMakeFiles/lkernel.dir
+/home/dynamo/lkernel/build/CMakeFiles/edit_cache.dir
+/home/dynamo/lkernel/build/CMakeFiles/rebuild_cache.dir
