@@ -1,3 +1,4 @@
+![C++](https://img.shields.io/badge/C++-green.svg)      ![BUILD](https://img.shields.io/badge/BUILD-0.2alpha-orange.svg)    ![makefile](https://img.shields.io/badge/Makefile-purple.svg) 
 # Lkernel
 ### A simple console LINUX Kernel Changer By C++
 
