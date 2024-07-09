@@ -1,5 +1,5 @@
 # Lkernel
-### A simple console LINUX Kernel Changer
+### A simple console LINUX Kernel Changer By C++
 
 ![image](lkernel.png)
 
