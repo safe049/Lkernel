@@ -6,7 +6,7 @@
 
 std::vector<std::string> KernelInfoFetcher::FetchKernelInfo() const {
     return {
-        "linux-stable: stable original latest kernel.",
+        "linux: stable original latest kernel.",
         "linux-zen: kernel that hackers edited to increase performance.",
         "linux-lts: long time support kernel, stable to use.",
         "linux-hardened: very safe but maybe affect using."
