@@ -7,6 +7,8 @@
 ## Don't know how to switch your linux kernel?
 #### Well,This is litreally for you!
 
+#### 中文/CHINESE readme: [CHINESE](README_ZH.md)
+
 # How to use?
 ## You have two options
 ### 1. Straight to use:
