@@ -1,8 +1,11 @@
 ![C++](https://img.shields.io/badge/C++-green.svg)      ![BUILD](https://img.shields.io/badge/BUILD-v1.0release-orange.svg)    ![makefile](https://img.shields.io/badge/Makefile-purple.svg) 
 # Lkernel
-### A simple console LINUX Kernel Changer By C++
+### A easy-to-use console LINUX Kernel Switcher By C++
 
 ![image](lkernel.png)
+
+## Don't know how to switch your linux kernel?
+#### Well,This is litreally for you!
 
 # How to use?
 ## You have two options
